@@ -1,1 +1,5 @@
-# CD-Andrade-Emilio
+# Emilio Andrade
+
+Hola, este es mi pequeño espacio para contar lo que espero de la materia APRENDIZAJE AUTOMÁTICO INICIAL, estoy en quinto semestre de Ciencia de Datos y siento que esta materia aparece justo en ese punto donde todo lo que hemos visto estos años empieza a tomar forma, por eso quiero aprovecharla al máximo, quiero entender de verdad cómo funciona todo lo que antes solo mirábamos por encima, quiero que cada cosa que vimos en estadística, programación, matemática y bases de datos empiece a encajar y tenga sentido juntos, también quiero usar esta clase para repasar, recapitular y reaprender muchas cosas que ya vi pero que siento que todavía puedo profundizar mejor, y además abrirme a lo nuevo que venga, lo nuevo que todavía no conozco pero que sé que va a ser clave en mi camino como científico de datos en formación
+
+Mi idea es aprender con calma, con honestidad y con ganas, equivocarme, mejorar y llegar al final del curso sintiendo que de verdad crecí, que entendí, que conecté todo y que este sea un paso importante para seguir avanzando
